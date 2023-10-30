@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(4, 98, 160);
+  text-align: center;
+}
+
+h1 {
+  color: rgb(78, 159, 214);
+  border: 5px solid;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  padding: 10px;
+}
+
+p {
+  color: rgb(182, 180, 180);
+  padding: 0;
+  margin: 0;
+}
+
+.clock {
+  border-left: 20px dotted rgb(78, 159, 214);
+  border-right: 20px dotted rgb(78, 159, 214);
+}
+
+h3 {
+  color: rgb(132, 195, 237);
+}
+
+#time {
+  color: aquamarine;
+}
